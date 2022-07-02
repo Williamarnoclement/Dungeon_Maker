@@ -55,7 +55,7 @@ J’ai eu l’occasion de faire plusieurs demandes à mon professeur Mr Hernande
 
 Les autres fonctionnalités sont liées au deuxième menu du logiciel: le menu contextuel.
 
-##Le menu contextuel
+## Le menu contextuel
 
 Le menu contextuel est doué de quatre boutons différents. Chacun des ces boutons permettent de changer de mode (voir la variable Mode dans Controller).
 Le mode est un entier qui peut prendre quatre valeurs:
